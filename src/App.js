@@ -19,7 +19,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h2>Pagination Concept Using React Js</h2>
+      <h2>Pagination Concept</h2>
        {
          data.length>=1?
          <div>
